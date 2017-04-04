@@ -2,7 +2,7 @@
 Rewrite my blog into isomorphic applications
 
 
-##Technology stack
+## Technology stack
 ```
 React+Redux+Rxjs+Webpack+Gulp+Koa+Mongoose
 ```

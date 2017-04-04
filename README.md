@@ -8,4 +8,4 @@ React+Redux+Rxjs+Webpack+Gulp+Koa+Mongoose
 ```
 
 Here is my personal blog:
-[blog.yvanwang.com]
+(blog.yvanwang.com)
